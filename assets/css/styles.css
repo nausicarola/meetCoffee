@@ -1,0 +1,79 @@
+footer {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 20px
+  }
+  i {
+    font-size: 30px
+  }
+  #Proxima-Charla {
+    background-color: #a4452c;
+    padding: 100px;
+    color: white;
+  }
+  #Proxima-Charla .wrapper {
+    width: 800px;
+    margin: auto;
+  }
+  .wrapper{
+    width: 800px;
+    margin: auto;    
+
+  }
+  .wrapper img{
+    width: 25%;
+  }
+  .wrapper .texto {
+    width: 70%;
+    margin-left: 4%;
+  }
+  .wrapper img, .texto {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  .lugar{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .menu {
+    color: white;
+  }
+
+  header {
+    background-image: url(../img/bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: right;
+    text-shadow: 0px 3px 6px black;
+    font-family: Open sans;
+  }
+  header h1{
+    font-size: 60px;
+  }
+  header h3{
+    font-size: 40px;
+    font-weight: lighter;
+    }
+  .icono {
+    width: 2rem;
+  }
+  
+  .icono svg {
+    fill: #ffffff;
+  }
+  .oscuro{
+    background-color: black;
+  }
+  body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+  }
+  #Eventos-Anteriores {
+    text-align: center;
+    }
